@@ -4,6 +4,7 @@ class Star{
   //Creating Parameterized constructor 
   Star(int a) { 
     print('You can go about your business'); 
+    print('Was said in the episode ${a}');
   } 
 } 
   
